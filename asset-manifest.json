@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yoko-movies/static/css/main.61bfffc9.css",
+    "main.js": "/yoko-movies/static/js/main.07073a74.js",
+    "static/media/desktop-bot-bg.png": "/yoko-movies/static/media/desktop-bot-bg.25cb63b29807b74dc8eb.png",
+    "static/media/mobile-top-bg2.png": "/yoko-movies/static/media/mobile-top-bg2.357e7a54cd86d1005123.png",
+    "static/media/logo.svg": "/yoko-movies/static/media/logo.f0c4feed28f3008f1a1b749cfa5c7f61.svg",
+    "index.html": "/yoko-movies/index.html",
+    "main.61bfffc9.css.map": "/yoko-movies/static/css/main.61bfffc9.css.map",
+    "main.07073a74.js.map": "/yoko-movies/static/js/main.07073a74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61bfffc9.css",
+    "static/js/main.07073a74.js"
+  ]
+}
